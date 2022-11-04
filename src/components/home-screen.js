@@ -11,6 +11,7 @@ import {
 import Modal from 'react-native-modal';
 import { BleManager } from 'react-native-ble-plx';
 //test
+// test 2
 
 export default class HomeScreen extends Component {
   constructor(props) {
